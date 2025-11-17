@@ -1,14 +1,11 @@
 # Hi, I'm Mohammad Mahdi Kheirkhah 👋
 
-![Profile Banner](banner.png) <!-- Upload your banner image to this repo and replace 'banner.png' -->
-
 Full-stack developer with a B.Sc. in Computer Engineering and ongoing training at Grit:lab. Skilled in building scalable applications using Java (Spring Boot), Go, JavaScript frameworks like Angular and Vue.js, and databases like MongoDB. Experienced in microservices architecture, real-time features with WebSockets, and optimization algorithms. Seeking opportunities to apply problem-solving skills in dynamic tech environments.
 
-- 🌍 Based in Mariehamn, Åland Islands
 - 🔭 Currently working on: Full-stack projects at Grit:lab
 - 🌱 Learning: Quantitative finance, neural networks, reinforcement learning, calculus, statistics
 - 👯 Open to collaborate on: Open-source full-stack or optimization projects
-- 💬 Ask me about: Microservices, real-time apps, or embedded systems
+- 💬 Ask me about: Microservices, real-time apps
 - 📫 Reach me: mahdikheirkhah060@gmail.com
 - ⚡ Fun fact: I optimized an evacuation planning model using NSGA-II in Python for real-world crisis mapping
 
@@ -20,6 +17,7 @@ Full-stack developer with a B.Sc. in Computer Engineering and ongoing training a
 - **Development & Tools**: Git, Docker, Kafka, Rest APIs, GraphQL
 - **Other**: Embedded Systems (Arduino, AVR), Enterprise Architecture, Microprocessors
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikheirkhah&layout=compact&theme=radical)
 ## Education and Training
 
 - **Further Vocational Qualification in ICT**  
@@ -40,7 +38,8 @@ Full-stack developer with a B.Sc. in Computer Engineering and ongoing training a
 - [LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-kheirkhah-a0847b308/)
 - [Portfolio Website](https://mahdikheirkhah.github.io)
 
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdikheirkhah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikheirkhah&layout=compact&theme=radical)
 
 Thanks for visiting! 🚀
